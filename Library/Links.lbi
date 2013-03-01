@@ -1,16 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
-</head>
-
-<body>
-<h1>Doctor Who Website</h1>
-<h2>Companion: Captain Jack Harkness</h2>
-<p>Captain Jack Harkness is a companion in the Doctor Who series.</p>
-<!-- #BeginLibraryItem "/Library/Links.lbi" -->
-<p><strong>The Doctors:</strong></p>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><p><strong>The Doctors:</strong></p>
 <ul>
   <li><a href="../doctor-who/doctor-who-01.html">The First Doctor</a></li>
   <li><a href="../doctor-who/doctor-who-02.html">The Second Doctor</a></li>
@@ -26,11 +14,11 @@
 </ul>
 <p><strong>Companions:</strong></p>
 <ul>
-  <li><a href="amy-pond.html">Amy Pond</a></li>
-  <li><a href="captain-jack-harkness.html">Captain Jack Harkness</a></li>
-  <li><a href="mickey-smith.html">Mickey Smith </a></li>
-  <li><a href="rory-williams.html">Rory Williams</a></li>
-  <li><a href="rose-tyler.html">Rose Tyler</a></li>
+  <li><a href="../companions/amy-pond.html">Amy Pond</a></li>
+  <li><a href="../companions/captain-jack-harkness.html">Captain Jack Harkness</a></li>
+  <li><a href="../companions/mickey-smith.html">Mickey Smith </a></li>
+  <li><a href="../companions/rory-williams.html">Rory Williams</a></li>
+  <li><a href="../companions/rose-tyler.html">Rose Tyler</a></li>
 </ul>
 <p><strong>Villains: </strong></p>
 <ul>
@@ -41,6 +29,3 @@
   <li><a href="../villains/silence.html">Silence</a></li>
 </ul>
 <p><a href="../index.html">Homepage</a></p>
-<!-- #EndLibraryItem -->
-</body>
-</html>
